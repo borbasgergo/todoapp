@@ -3,3 +3,5 @@ Tech stack:
 -Express
 -Typescript
 -Typeorm
+
+DB: mysql
